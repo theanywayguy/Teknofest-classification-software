@@ -28,7 +28,7 @@ class VisionEngine:
     def scan_for_letter(self, frame):
         """ 
         Runs OCR on the center of the frame.
-        Returns 'A', 'B' (for Middle).
+        Returns 'A', 'B' for detected platforms.
         """
         h, w, _ = frame.shape
         # Crop center 40%

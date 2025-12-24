@@ -33,3 +33,10 @@ PLATFORM_ANGLES = {
     "B": 45.0,      # Right
     "HOME": 0.0,  # Center
 }
+
+# --- SAFETY ANGLES (No-Fire Zones) ---
+# Turret will not fire at these specific angles
+NO_FIRE_ANGLES = {
+    "LEFT_LIMIT": -90.0,
+    "RIGHT_LIMIT": 90.0
+}
