@@ -4,7 +4,7 @@
 
 ### TEKNOFEST 2026 - Mersin University Team
 
-**Autonomous Object Detection, Tracking & Turret Control Suite** Powered by **Ultralytics YOLOv8** + **OpenCV** + **Arduino**
+**Autonomous Object Detection, Tracking & Turret Control Suite** Powered by **Ultralytics YOLOv8** + **OpenCV** + **STM32**
 
 </div>
 
