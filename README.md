@@ -20,7 +20,7 @@ Aegis is the mission control software designed for our autonomous turret. It com
 
 - **GUI Dashboard:** Full control panel with live video feed, turret telemetry, and mode switching.
 - **Standard Mode (Friend/Foe):**
-  - Detects Friendly (Blue/Green) vs. Foe (Red/Pink) balloons.
+  - Detects Friendly (Blue) vs. Foe (Red) balloons.
   - **Auto-Lock:** Automatically selects and tracks the closest enemy.
   - **Vector Tracking:** Visualizes the turret's aim path to the target.
 - **Memory Mode (Mission Logic):**
